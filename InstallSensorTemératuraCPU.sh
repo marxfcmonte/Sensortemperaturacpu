@@ -100,7 +100,6 @@ do
 		fi
 	fi
 done
-exit 0
 EOF
 		cat <<EOF > $pastaj/localizador_sensores.sh
 #!$SHELL
