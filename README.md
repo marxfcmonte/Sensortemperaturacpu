@@ -2,8 +2,7 @@
 
 Arquivos InstallSensorTemératuraCPU.sh e InstallSensorTemératuraCPU: executar no terminal como root, use **sudo** ou **su**.
 
-Localiza sensores de temperatura e mostra as temperaturas dos núcleos da CPU a partir do terminal, pode ser usado no **conky**
-usando o senguinte comando:
+Localiza sensores de temperatura e mostra as temperaturas dos núcleos da CPU a partir do terminal. Pode ser usado no **conky** usando o seguinte comando:
 
       ${color}Temp [CPU X]:${alignr}${exec sensor_temparatura --cpuX}${color}
 
