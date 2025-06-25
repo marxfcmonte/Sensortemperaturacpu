@@ -9,7 +9,7 @@ usando o senguinte comando:
 
 no arquivo de configuração: **.conkyrc** que fica no diretório **home**.
 
-Sendo **X** é o número do núcleo do processador: X=1 até X=n.
+Sendo **X** o número do núcleo do processador: X=1 até X=n.
 
 Use o comando: **sensor_temparatura --help** para ver a quantidade de sensores localizados. 
 
